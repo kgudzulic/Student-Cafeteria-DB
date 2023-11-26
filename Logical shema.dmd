@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Logicka sema relacije - prva" id="FC473B1E-9CA8-7F0B-EAFF-2710FE2A2269" version="3.5">
+<createdBy>Kiketa</createdBy>
+<createdTime>2023-01-21 13:19:27 UTC</createdTime>
+<ownerDesignName>Logicka sema relacije - prva</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>FC473B1E-9CA8-7F0B-EAFF-2710FE2A2269</designId>
+</OSDM_Design>
